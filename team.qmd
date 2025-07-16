@@ -1,0 +1,27 @@
+---
+title: "Team"
+---
+
+## Lab director
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/headshot-mthieu-2024.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Monica Thieu, PhD** is an Assistant Professor in the Department of Neuroscience, Cognition, & Behavior at the University of San Diego. She uses behavioral, computational modeling, and neuroimaging methods to quantify the contributions of perceptual information to emotional experience. She also contributes to community maintenance for open-source scientific computing software.
+
+Monica earned her B.A. in psychology from Stanford University under Drs. Melina Uncapher and Anthony Wagner, where she also worked as a lab manager, and her Ph.D. in psychology from Columbia University under Dr. Kevin Ochsner. She then completed postdoctoral training as an NIH IRACDA FIRST fellow at Emory University, both in research under Dr. Philip Kragel, and in teaching at Spelman College under Dr. Jimmeka Wright.
+
+:::
+
+::::
+
+## Undergraduate research assistants
+
+The CoCoA Lab is currently recruiting undergraduate research assistants. If you are an interested USD student, please [contact Dr. Thieu](contact.qmd) to submit a statement of interest!

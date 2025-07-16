@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "CoCoA Lab @ USD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - team.qmd
+      - participate.qmd
+      - contact.qmd
+  page-footer: 
+    left: "Part of the Department of Neuroscience, Cognition, and Behavior at the University of San Diego"
+
+format:
+  html:
+    theme:
+      - litera
+      - brand
+    css: styles.css
+    toc: true
+
+
+

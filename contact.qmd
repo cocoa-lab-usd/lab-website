@@ -1,0 +1,15 @@
+---
+title: "Contact us"
+---
+
+## Prospective research assistants
+
+Prospective USD undergraduate research assistants can [submit an application](https://docs.google.com/forms/d/e/1FAIpQLScPEhmiT6rkjqMjihAvBGpRfWQm33oPi2_DWAbfYHKFksqztg/viewform?usp=dialog) for consideration. You must use your USD login to access the application form.
+
+## Prospective study participants
+
+Please visit the [Participate](participate.qmd) page for the most updated info on research studies that may be available for you to participate in.
+
+## General lab inquiries
+
+Please [email Dr. Thieu](mailto:mthieu@sandiego.edu) for other lab inquiries.
