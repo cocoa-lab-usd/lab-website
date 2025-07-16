@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+
+# no mac files
+*.DS_Store
