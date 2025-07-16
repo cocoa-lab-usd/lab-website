@@ -4,6 +4,9 @@
 .Ruserdata
 
 /.quarto/
+# since using quarto publish netlify,
+# I _think_ we don't need to commit the local site render
+_site/
 
 # no mac files
 *.DS_Store
