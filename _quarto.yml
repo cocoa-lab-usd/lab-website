@@ -19,6 +19,7 @@ format:
     theme:
       - litera
       - brand
+      - mytheme.scss
     css: styles.css
     toc: true
 
