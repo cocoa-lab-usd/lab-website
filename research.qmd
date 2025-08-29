@@ -20,7 +20,7 @@ PS: we sometimes apply tools of psychology and neuroscience to **other personal 
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY1bGZubTFkdmRibHN5MHgweDl2Z3VobXYyemhxYndmOHJkdjJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vsgJD1Oqdhsas/giphy.gif){width=70%}
 
-Humans and other species share certain brain & cognitive systems for survival that are tuned to detect very specific perceptual inputs. (For example, detecting the expanding shape of something _looming_ that's on track to hit you in the face. Danger!) How does the information from these _evolutionarily old_ systems contribute to _human_ emotions in particular?
+Humans and other species share certain brain & cognitive systems for survival that are tuned to detect very specific perceptual inputs. (For example, detecting the expanding shape of something _looming_ that's on track to hit you in the face. Danger!) **How does the information from these _evolutionarily old_ systems contribute to _human_ emotions in particular?**
 
 Relevant publications:
 
@@ -30,7 +30,7 @@ Relevant publications:
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlzbnllYmt1dXIzZnRkZHJjam8wYnQ4NG8zdWNrZW1iMHhxa2dteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBqNisx9dkXWAX6/giphy.gif){width=70%}
 
-Mixed emotions like relief or disappointment often arise from reversals of fortune, where something almost happens but doesn't at the last minute. Can we identify the perceptual ingredients of mixed emotions, and differentiate them from emotions with similar perceptual inputs but different outcomes?
+Mixed emotions like relief or disappointment often arise from reversals of fortune, where something almost happens but doesn't at the last minute. **Can we identify the perceptual ingredients of mixed emotions,** and differentiate them from emotions with similar perceptual inputs but different outcomes?
 
 ## Meta-science of computational research methods
 
@@ -38,9 +38,13 @@ Mixed emotions like relief or disappointment often arise from reversals of fortu
 
 **Current projects include...**
 
+### Trends in computational neuroscience training
+
+Computational neuroscience is both neuroscience and computational. (It's in the name!) What kinds of training is a computational neuroscientist expected to have? **Are neuroscience programs offering the training that future computational neuroscientists need?** And how might trends in computational neuroscience training relate to diversity (or lack thereof) among computational neuroscientists at different levels?
+
 ### Building community resources for scientists working on public datasets
 
-Many different groups of scientists are often conducting simultaneous studies on the same public datasets. How can this scientific community share knowledge and expertise about the data, both independently from and in harmony with the original stewards of the data?
+Many different groups of scientists are often conducting simultaneous studies on the same public datasets. **How can this scientific community share knowledge and expertise about the data,** both independently from and in harmony with the original stewards of the data?
 
 Relevant publications:
 
@@ -65,7 +69,7 @@ Sample contributions:
 
 How are some people predisposed to remember lots of random facts?
 
-Current research questions include:
+**Current research questions include:**
 
 - How long after initial learning do trivia experts show enhanced episodic-semantic binding?
 - Can non-trivia experts be trained in expert-like memory strategies to improve incidental trivia retention?
