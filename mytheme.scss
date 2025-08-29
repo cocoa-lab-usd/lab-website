@@ -1,3 +1,12 @@
 /*-- scss:defaults --*/
 
 $body-bg:                   #f0e2c8 !default;
+$light2: #d5b67e $body-bg;
+
+/*-- scss:rules --*/
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+        color: $light2;
+}
