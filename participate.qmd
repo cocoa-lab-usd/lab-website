@@ -3,3 +3,5 @@ title: "Participate"
 ---
 
 We are not currently enrolling any participants in research studies. Please check back later!
+
+(If you would like to apply to join the lab as a research assistant, and arrived on this page by mistake, please check out the [Contact](contact.qmd) page!)
