@@ -8,7 +8,7 @@ title: "Team"
 
 ::: {#first-column-headshot}
 
-![](team-headshots/headshot-mthieu-2024.jpg)
+![](team-headshots/headshot-mthieu-2025.jpg)
 
 :::
 
