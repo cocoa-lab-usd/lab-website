@@ -26,11 +26,15 @@ Relevant publications:
 
 - Thieu, M. K., Ayzenberg, V., Lourenco, S. F., & Kragel, P. A. (2024). [Visual looming is a primitive for human emotion.](https://www.ecco-lab.org/s/Visual-looming-is-a-primitive-for-human-emotion-main.pdf) _iScience, 27_(6).
 
+::: {.content-hidden}
+
 ### Components of mixed emotional experiences
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlzbnllYmt1dXIzZnRkZHJjam8wYnQ4NG8zdWNrZW1iMHhxa2dteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBqNisx9dkXWAX6/giphy.gif){width=70%}
 
 Mixed emotions like relief or disappointment often arise from reversals of fortune, where something almost happens but doesn't at the last minute. **Can we identify the perceptual ingredients of mixed emotions,** and differentiate them from emotions with similar perceptual inputs but different outcomes?
+
+:::
 
 ## Meta-science of computational research methods
 
