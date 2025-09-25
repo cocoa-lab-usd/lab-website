@@ -26,4 +26,21 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ## Undergraduate research assistants
 
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/IMG_4618.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Sonya Patel, '29** will graduate from the University of San Diego '29 with a BA in Psychology and minor in Cognitive Science. She is  interested in understanding the structures of the brain and how they relate to our internal beliefs and external behaviors. She plans on pursuing her PhD in clinical psychology. 
+
+:::
+
+::::
+
+
 If you are an interested USD student, please [contact Dr. Thieu](contact.qmd) to submit a statement of interest! I recruit research assistants on a fluctuating, rolling basis depending on project needs and fit.
