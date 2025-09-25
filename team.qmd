@@ -69,7 +69,7 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::: {#second-column-bio}
 
-**Sophie Johnston, 2029** is a student majoring in Neuroscience at the University of San Diego. Her research interests focus on the intersection between Neuroscience and Engineering, with a particular focus on brain-computer interface (BCI) technology. Her academic path reflects a passion in advancing neurotechnology, while preparing to translate innovations into the Business and Entrepreneurial sphere. She is especially motivated by the challenge of developing BCI tools that can restore function and expand human–machine interaction, redefining how humans connect with technology.
+**Sophie Johnston,'29** is a student majoring in Neuroscience at the University of San Diego. Her research interests focus on the intersection between Neuroscience and Engineering, with a particular focus on brain-computer interface (BCI) technology. Her academic path reflects a passion in advancing neurotechnology, while preparing to translate innovations into the Business and Entrepreneurial sphere. She is especially motivated by the challenge of developing BCI tools that can restore function and expand human–machine interaction, redefining how humans connect with technology.
 
 :::
 
