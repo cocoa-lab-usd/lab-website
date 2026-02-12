@@ -10,3 +10,5 @@ _site/
 
 # no mac files
 *.DS_Store
+
+**/*.quarto_ipynb
