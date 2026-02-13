@@ -62,6 +62,22 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::: {#first-column-headshot}
 
+![](team-headshots/cook-lucy.jpeg)
+
+:::
+
+::: {#second-column-bio}
+
+**Lucy Cook, '28** is an undergraduate student at the University of San Diego, pursuing a Bachelor’s of Science degree in Neuroscience with a minor in Chemistry. Her academic interests focus on the intersection of Neuroscience with Pharmacology. Her primary research interests lie in the study of medications and drugs and their specific effects on the brain. She plans to attend medical school and specialize in anesthesiology and applying her knowledge of neuro-pharmacology to clinical practice. 
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
 ![](team-headshots/headshot-default.jpg)
 
 :::
