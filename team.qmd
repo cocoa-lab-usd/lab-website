@@ -8,7 +8,7 @@ title: "Team"
 
 ::: {#first-column-headshot}
 
-![](team-headshots/headshot-mthieu-2025.jpg)
+![](team-headshots/headshot-mthieu-2025.jpeg)
 
 :::
 
@@ -36,7 +36,71 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::: {#second-column-bio}
 
-**Sophie Johnston,'29** is a Neuroscience student at the University of San Diego with a focused interest in the future of biopharmaceutical innovation. Her academic work centers on translating complex biological systems into practical therapeutic applications that improve patient outcomes. She is particularly drawn to the intersection of scientific research, regulatory strategy, and clinical development within large pharmaceutical organizations.
+**Valentina Alvarado, '28** is an undergraduate student at the University of San Diego majoring in Neuroscience. She is especially interested in how neuroscience can be applied to clinical practice, with a focus on understanding brain disorders, neural injury, and the biological basis of mental health disorders. Through research and clinical exposure, she plans to integrate scientific knowledge with patient care. Valentina plans to attend medical school and pursue a career in neurology or psychiatry, where she hopes to combine her passion for neuroscience with patient-centered medicine. 
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/abradford@sandiego.edu-6b0a461b.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Ari Bradford, '26** is an undergraduate student at the University of San Diego, pursuing a Bachelor's degree in Neuroscience with a minor in Philosophy. Her acadmic interests focus on the intersection of neuroscience with the human experience. Her research interests include Alzheimer's disease, psychiatric disorders, and the neural mechanisms underlying emotion.
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/cook-lucy.jpeg)
+
+:::
+
+::: {#second-column-bio}
+
+**Lucy Cook, '28** is an undergraduate student at the University of San Diego, pursuing a Bachelor’s of Science degree in Neuroscience with a minor in Chemistry. Her academic interests focus on the intersection of Neuroscience with Pharmacology. Her primary research interests lie in the study of medications and drugs and their specific effects on the brain. She plans to attend medical school and specialize in anesthesiology and applying her knowledge of neuro-pharmacology to clinical practice. 
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/sjheadshot.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Sophie Johnston,'29** is a Neuroscience student at the University of San Diego with a focused interest in the future of biopharmaceutical development. Her academic work centers on translating complex biological systems into practical therapeutic applications that improve patient outcomes. She is particularly drawn to the intersection of scientific research, regulatory strategy, and clinical development within large pharmaceutical organizations.
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/IMG_4618.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Sonya Patel, '29** will graduate from the University of San Diego '29 with a B.A. in Psychology and minor in Cognitive Science. She is  interested in understanding the structures of the brain and how they relate to our internal beliefs and behaviors. She plans on pursuing her PhD in clinical psychology. Her current studies include childhood adolescence & development and neuroscience statistics.   
 
 :::
 
