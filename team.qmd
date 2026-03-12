@@ -78,6 +78,22 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::: {#first-column-headshot}
 
+![](team-headshots/geuzaine-clara.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Clara Geuzaine, '28** is an undergraduate student at the University of San Diego pursuing a Bachelor of Science in Neuroscience, with minors in Chemistry, Biology, and French. Her academic interests focus on how neural injuries affect cognition and emotions, and how changes in brain function influence behavior. She plans to attend medical school and apply her knowledge of neuroscience to clinical practice. In addition to her studies, Clara is a member of the University of San Diego Women’s Soccer Team.
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
 ![](team-headshots/headshot-default.jpg)
 
 :::
