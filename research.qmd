@@ -18,6 +18,8 @@ PS: we sometimes apply tools of psychology and neuroscience to **other personal 
 
 ### Perceptual building blocks for subjective emotions
 
+::: {.content-hidden}
+
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY1bGZubTFkdmRibHN5MHgweDl2Z3VobXYyemhxYndmOHJkdjJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vsgJD1Oqdhsas/giphy.gif){width=70%}
 
 Humans and other species share certain brain & cognitive systems for survival that are tuned to detect very specific perceptual inputs. (For example, detecting the expanding shape of something _looming_ that's on track to hit you in the face. Danger!) **How does the information from these _evolutionarily old_ systems contribute to _human_ emotions in particular?**
@@ -26,25 +28,21 @@ Relevant publications:
 
 - Thieu, M. K., Ayzenberg, V., Lourenco, S. F., & Kragel, P. A. (2024). [Visual looming is a primitive for human emotion.](https://www.ecco-lab.org/s/Visual-looming-is-a-primitive-for-human-emotion-main.pdf) _iScience, 27_(6).
 
-::: {.content-hidden}
-
-### Components of mixed emotional experiences
-
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlzbnllYmt1dXIzZnRkZHJjam8wYnQ4NG8zdWNrZW1iMHhxa2dteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBqNisx9dkXWAX6/giphy.gif){width=70%}
-
-Mixed emotions like relief or disappointment often arise from reversals of fortune, where something almost happens but doesn't at the last minute. **Can we identify the perceptual ingredients of mixed emotions,** and differentiate them from emotions with similar perceptual inputs but different outcomes?
-
 :::
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRheXM4aXlpZTh3bjk0eGM5amU4bmR1d2MxcXN3N2ZkZGpyOXFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7n667dRw4smkeXctI/giphy.gif){width=70%}
+
+Emotions like surprise often arise when we see something unexpected and personally meaningful to us. Personal meaning differs from person to person and can be harder to study, but one visual stimulus pretty reliably surprises people and might be useful to scientists: _magic tricks!_ **What are the perceptual ingredients of surprise induced by magic tricks?**
 
 ## Meta-science of computational research methods
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwajE1aGwyeDdoaGM1Yjd2OWdyZDEzNjJ4eTIyMHFteTYya3poayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.gif){width=70%}
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU3bjdkZWtocHgxbGFpbzZpNTkwcnh2Zmo0Nzd3cG1yeWVvdDIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif){width=70%}
 
 **Current projects include...**
 
-### Trends in computational neuroscience training
+### Computational training for behavioral scientists
 
-Computational neuroscience is both neuroscience and computational. (It's in the name!) What kinds of training is a computational neuroscientist expected to have? **Are neuroscience programs offering the training that future computational neuroscientists need?** And how might trends in computational neuroscience training relate to diversity (or lack thereof) among computational neuroscientists at different levels?
+Behavioral sciences like psychology and neuroscience are becoming increasingly computational in the age of Big Data. **How can psychology and neuroscience programs offer the training that future behavioral scientists need?** Specifically, how can stats courses in psychology and neuroscience act as a stepping stone to building more computational skills?
 
 ### Building community resources for scientists working on public datasets
 
@@ -75,9 +73,18 @@ How are some people predisposed to remember lots of random facts?
 
 **Current research questions include:**
 
+- How are autobiographical memories for learning trivia facts similar to vs. different from autobiographical memories for other life events?
+- How does autobiographical memory for learning trivia facts relate to trivia competition performance?
+
+::: {.content-hidden}
+
+OTHER RESEARCH QUESTIONS NOT IN THE CURRENT JSTUDY
+
 - How long after initial learning do trivia experts show enhanced episodic-semantic binding?
 - Can non-trivia experts be trained in expert-like memory strategies to improve incidental trivia retention?
 - Is trivia experts' enhanced episodic-semantic binding associated with differences in temporal lobe structure and function?
+
+:::
 
 Relevant publications:
 
