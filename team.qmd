@@ -36,76 +36,29 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::: {#second-column-bio}
 
-**Valentina Alvarado, '28** is an undergraduate student at the University of San Diego majoring in Neuroscience. She is especially interested in how neuroscience can be applied to clinical practice, with a focus on understanding brain disorders, neural injury, and the biological basis of mental health disorders. Through research and clinical exposure, she plans to integrate scientific knowledge with patient care. Valentina plans to attend medical school and pursue a career in neurology or psychiatry, where she hopes to combine her passion for neuroscience with patient-centered medicine. 
-
-:::
-
-::::
-
-:::: {layout="[ 30, 70 ]"}
-
-::: {#first-column-headshot}
-
-![](team-headshots/abradford@sandiego.edu-6b0a461b.jpg)
-
-:::
-
-::: {#second-column-bio}
-
-**Ari Bradford, '26** is an undergraduate student at the University of San Diego, pursuing a Bachelor's degree in Neuroscience with a minor in Philosophy. Her acadmic interests focus on the intersection of neuroscience with the human experience. Her research interests include Alzheimer's disease, psychiatric disorders, and the neural mechanisms underlying emotion.
-
-:::
-
-::::
-
-:::: {layout="[ 30, 70 ]"}
-
-::: {#first-column-headshot}
-
-![](team-headshots/cook-lucy.jpeg)
-
-:::
-
-::: {#second-column-bio}
-
-**Lucy Cook, '28** is an undergraduate student at the University of San Diego, pursuing a Bachelor’s of Science degree in Neuroscience with a minor in Chemistry. Her academic interests focus on the intersection of Neuroscience with Pharmacology. Her primary research interests lie in the study of medications and drugs and their specific effects on the brain. She plans to attend medical school and specialize in anesthesiology and applying her knowledge of neuro-pharmacology to clinical practice. 
-
-:::
-
-::::
-
-:::: {layout="[ 30, 70 ]"}
-
-::: {#first-column-headshot}
-
-![](team-headshots/sjheadshot.jpg)
-![](team-headshots/geuzaine-clara.jpeg)
-
-:::
-
-::: {#second-column-bio}
-
-**Clara Geuzaine, '28** is an undergraduate student at the University of San Diego pursuing a Bachelor of Science in Neuroscience, with minors in Chemistry, Biology, and French. Her academic interests focus on how neural injuries affect cognition and emotions, and how changes in brain function influence behavior. She plans to attend medical school and apply her knowledge of neuroscience to clinical practice. In addition to her studies, Clara is a member of the University of San Diego Women’s Soccer Team.
-
-:::
-
-::::
-
-:::: {layout="[ 30, 70 ]"}
-
-::: {#first-column-headshot}
-
-![](team-headshots/headshot-default.jpg)
-
-:::
-
-::: {#second-column-bio}
-
 **Sophie Johnston,'29** is a Neuroscience student at the University of San Diego with a focused interest in the future of biopharmaceutical development. Her academic work centers on translating complex biological systems into practical therapeutic applications that improve patient outcomes. She is particularly drawn to the intersection of scientific research, regulatory strategy, and clinical development within large pharmaceutical organizations.
 
 :::
 
 ::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/IMG_0004.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Ashanthy Pardilla, '28** is an undergraduate student at the University of San Diego pursuing a Bachelor of Science degree in Cognition and Behavior with a minor in Biomedical Ethics. Her academic interests center on the relationship between cognition, emotion, and behavior, with a particular interest in understanding the cognitive and emotional processes that influence human behavior. Her research interests include cognitive and emotional responses, perception, and the ways in which individuals process and respond to experiences. She plans to pursue a career in healthcare and continue applying her background in cognition and behavior to better understand and support individuals’ cognitive and emotional well-being.
+
+:::
+
+::::
+
+
 
 :::: {layout="[ 30, 70 ]"}
 
@@ -123,5 +76,24 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::::
 
-
 If you are an interested USD student, please [contact Dr. Thieu](contact.qmd) to submit a statement of interest! I recruit research assistants on a rolling basis before each semester depending on project needs and fit.
+
+## Former lab members
+
+<!-- 
+notes to self: comment out headshot paths and bios to keep as records until sufficient time has passed for deletion
+current lab members in alphabetical order
+former lab members in graduation year then alphabetical order
+-->
+
+**Ari Bradford, '26** <!--  is an undergraduate student at the University of San Diego, pursuing a Bachelor's degree in Neuroscience with a minor in Philosophy. Her acadmic interests focus on the intersection of neuroscience with the human experience. Her research interests include Alzheimer's disease, psychiatric disorders, and the neural mechanisms underlying emotion. ![](team-headshots/abradford@sandiego.edu-6b0a461b.jpg) --> 
+
+**Annelyse Basha, '26** <!-- S26 -->
+
+**Valentina Alvarado, '28** <!-- is an undergraduate student at the University of San Diego majoring in Neuroscience. She is especially interested in how neuroscience can be applied to clinical practice, with a focus on understanding brain disorders, neural injury, and the biological basis of mental health disorders. Through research and clinical exposure, she plans to integrate scientific knowledge with patient care. Valentina plans to attend medical school and pursue a career in neurology or psychiatry, where she hopes to combine her passion for neuroscience with patient-centered medicine. -->
+
+**Lucy Cook, '28** <!-- is an undergraduate student at the University of San Diego, pursuing a Bachelor’s of Science degree in Neuroscience with a minor in Chemistry. Her academic interests focus on the intersection of Neuroscience with Pharmacology. Her primary research interests lie in the study of medications and drugs and their specific effects on the brain. She plans to attend medical school and specialize in anesthesiology and applying her knowledge of neuro-pharmacology to clinical practice. ![](team-headshots/cook-lucy.jpeg) -->
+
+**Clara Geuzaine, '28** <!-- is an undergraduate student at the University of San Diego pursuing a Bachelor of Science in Neuroscience, with minors in Chemistry, Biology, and French. Her academic interests focus on how neural injuries affect cognition and emotions, and how changes in brain function influence behavior. She plans to attend medical school and apply her knowledge of neuroscience to clinical practice. In addition to her studies, Clara is a member of the University of San Diego Women’s Soccer Team. ![](team-headshots/geuzaine-clara.jpeg) -->
+
+**Abraham Funk, '29** <!-- S26 -->
