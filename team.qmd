@@ -24,6 +24,26 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::::
 
+## Post-baccalaureate research assistants
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/IMG_1193.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Chiara Cossio** is a post-baccalaureate research assistant in the Department of Neuroscience, Cognition, and Behavior at the University of San Diego. She earned her B.S. in Biology with minors in Psychology and Chemistry from St. Mary’s University. Her academic and research interests center on memory, cognition, and the neural mechanisms underlying human behavior.
+
+Her research experience includes computational neuroscience, genetics, cell and molecular biology, and food biochemistry. She is particularly interested in understanding how different memory systems interact and how experiences influence memory over time. Chiara plans to pursue graduate study in psychology or neuroscience and ultimately hopes to conduct research investigating the neural mechanisms underlying memory and cognition.
+
+:::
+
+::::
+
 ## Undergraduate research assistants
 
 :::: {layout="[ 30, 70 ]"}
@@ -58,8 +78,6 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 
 ::::
 
-
-
 :::: {layout="[ 30, 70 ]"}
 
 ::: {#first-column-headshot}
@@ -71,6 +89,22 @@ Monica earned her B.A. in psychology from Stanford University under Drs. Melina 
 ::: {#second-column-bio}
 
 **Sonya Patel, '29** will graduate from the University of San Diego '29 with a B.A. in Psychology and minor in Cognitive Science. She is  interested in understanding the structures of the brain and how they relate to our internal beliefs and behaviors. She plans on pursuing her PhD in clinical psychology. Her current studies include childhood adolescence & development and neuroscience statistics.   
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
+![](team-headshots/IMG_8254.jpeg)
+
+:::
+
+::: {#second-column-bio}
+
+**Finley Sasena, '27** is an undergraduate student at the University of San Diego pursuing a degree in Neuroscience. Her research interests center on the relationship between brain function, behavior, and health, with a particular focus on cognition, emotion, stress, and individual differences in psychological and physiological responses. She is interested in exploring how a deeper understanding of these processes can contribute to improving health and patient care. Following graduation, Finley plans to pursue a career in medicine, where she hopes to integrate her scientific background with compassionate, patient-centered care.
 
 :::
 
