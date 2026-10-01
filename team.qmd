@@ -50,6 +50,22 @@ Her research experience includes computational neuroscience, genetics, cell and 
 
 ::: {#first-column-headshot}
 
+![](team-headshots/IMG_3152.jpg)
+
+:::
+
+::: {#second-column-bio}
+
+**Alyssa Arjona-Gonzaga, '27** is an undergraduate student at the University of San Diego pursuing a degree in Neuroscience with a double minor in Chemistry and Biomedical Ethics. She is interested in gaining a deeper understanding in how different emotions may be stimulated, and how these emotions can be measured accurately and precisely. In the future, Alyssa plans to apply to graduate school to pursue a doctorate degree in occupational therapy. Alyssa believes that her experiences at the University of San Diego and in this lab will give her the guidance and knowledge needed to pursue any future career path. 
+
+:::
+
+::::
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column-headshot}
+
 ![](team-headshots/sjheadshot.jpg)
 
 :::
@@ -66,7 +82,7 @@ Her research experience includes computational neuroscience, genetics, cell and 
 
 ::: {#first-column-headshot}
 
-![](team-headshots/IMG_0004.jpg)
+![](team-headshots/IMG_2986.jpg)
 
 :::
 
